@@ -1,0 +1,14 @@
+Package: com.jaydendagsa.BigSurExpanded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jayden Dagsa <jayden.dagsa@gmail.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: /BigSurExpanded.deb
+Size: 4758908
+MD5sum: 7b0022e2d604c2d0cd4583f93ccc6b19
+SHA1: c331dddf0e6015acd3723de78c1af29f0f46ad48
+SHA256: 1525be0c20b68ab0872f76bb6fca381bcd89d38f046e34a9b43619d35c2a55a9
+Section: Themes
+Description: A better Big Sur theme, for your iPhone and iPad.
+Author: Jayden Dagsa <jayden.dagsa@gmail.com>
+Name: BigSurExpanded v1
