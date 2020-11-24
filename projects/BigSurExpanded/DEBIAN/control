@@ -1,0 +1,9 @@
+Package: com.jaydendagsa.BigSurExpanded
+Name: BigSurExpanded
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A theme with Big Sur styled icons.
+Author: Jayden Dagsa
+Maintainer: Jayden Dagsa
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
