@@ -18,7 +18,7 @@
 	<key>CalendarIconDaySettings</key>
 	<dict>
 		<key>TextColor</key>
-		<string>#FFFFFF</string>
+		<string>.white</string>
 		<key>FontName</key>
 		<real>.SFUIText-Bold</real>
         	<key>FontSize</key>
