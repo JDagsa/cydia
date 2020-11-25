@@ -19,6 +19,8 @@
 	<dict>
 		<key>TextColor</key>
 		<string>#FFFFFF</string>
+		<key>FontName</key>
+		<real>.SFUIText-Bold</real>
         	<key>FontSize</key>
        		<real>9.0</real>
     	</dict>
