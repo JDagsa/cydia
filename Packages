@@ -5,26 +5,11 @@ Maintainer: Jayden Dagsa
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/com.jaydendagsa.bigsurexpanded_1.0_iphoneos-arm.deb
 Size: 5096470
-MD5sum: 51eaa0fa0c1c40e323fca86428e407a1
-SHA1: 7280b90b227e2a4cc5dfa8462b46ccdaccad5538
-SHA256: 8135cb3bc09d4507f335e1aae331b24e2f7367d305facbd56ef3c62911bac1c6
+MD5sum: ce10ca6735e55add468a250b488fe83e
+SHA1: bc6b0fc24a2260f389b9fa54c61b5d6d30efe892
+SHA256: 8cc41ee337e7c5957fd34b680631aabb712c81a6b80d292b7ea01a654f28f118
 Section: Themes
 Description: A theme with Big Sur styled icons.
 Author: Jayden Dagsa
 Name: BigSurExpanded
-
-Package: com.jaydendagsa.JDagsaRepoIcons
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JDagsa <jayden.dagsa@gmail.com>
-Filename: ./debs/com.jaydendagsa.jdagsarepoicons_1.0_iphoneos-arm.deb
-Size: 13880
-MD5sum: 74fdfcd29d36bf18d97778c3c88a0f46
-SHA1: 5149ae1502ce6dd94dab10a125f2b73aa99bf6c1
-SHA256: 9431eae4286588c761e2a1eb5723e3f9d4208588306e07918e654c0073cdfe7d
-Section: Themes
-Description: Section Icons
-Author: JDagsa
-Depiction: https://github.com/JDagsa/JDagsa.github.io
-Name: JDagsa Repo Icons
 
