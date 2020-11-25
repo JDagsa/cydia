@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: JDagsa
+Depiction: https://github.com/JDagsa/JDagsa.github.io
+Description: Section Icons
+Maintainer: JDagsa <jayden.dagsa@gmail.com>
+Name: JDagsa Repo Icons
+Package: com.jaydendagsa.JDagsaRepoIcons
+Section: Themes
+Version: 1.0
