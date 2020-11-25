@@ -4,27 +4,12 @@ Architecture: iphoneos-arm
 Maintainer: Jayden Dagsa
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/com.jaydendagsa.bigsurexpanded_1.0_iphoneos-arm.deb
-Size: 5421524
-MD5sum: b21cde5b80a78ad3e20ec1d9a51d1d0d
-SHA1: 009cc1c5c357ffb62521091302b9de72f616626c
-SHA256: d25ed86e02268f245fd580cdfdc3ad188dfa4381fba8b4ab0ea831ed9599ddcf
+Size: 5479780
+MD5sum: 07f58a4a38bdcd531050963cd7cf2203
+SHA1: 7e82854ee4b4e2c9627187e483f21f911fee3601
+SHA256: 4d5a826e75f3cd83b897325231e0d5e629ad04d681c779491ea9dc25d9f19306
 Section: Themes
 Description: A theme with Big Sur styled icons.
 Author: Jayden Dagsa
 Name: BigSurExpanded
-
-Package: com.jaydendagsa.BigSurExpandedCC
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Jayden Dagsa
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: ./debs/com.jaydendagsa.bigsurexpandedcc_1.0_iphoneos-arm.deb
-Size: 61186
-MD5sum: aefbc51bf729c8a6c996214c26ae951f
-SHA1: a9e8c593265e277e0cb067dc745c642f52d49f6f
-SHA256: a4e6cdd68872b62256b0c2afcbb3395bc0659c04fbb402f7ee866e8bd5ecb01f
-Section: Themes
-Description: A CC glyph theme with Big Sur styled glyphs.
-Author: Jayden Dagsa
-Name: BigSurExpandedCC
 

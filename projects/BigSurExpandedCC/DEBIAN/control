@@ -1,9 +1,0 @@
-Package: com.jaydendagsa.BigSurExpandedCC
-Name: BigSurExpandedCC
-Version: 1.0
-Architecture: iphoneos-arm
-Description: A CC glyph theme with Big Sur styled glyphs.
-Author: Jayden Dagsa
-Maintainer: Jayden Dagsa
-Section: Themes
-Depends: com.anemonetheming.anemone | com.spark.snowboard
