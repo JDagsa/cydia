@@ -5,9 +5,9 @@ Maintainer: Jayden Dagsa
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/com.jaydendagsa.bigsurexpanded_1.0_iphoneos-arm.deb
 Size: 5719644
-MD5sum: aec51559a09a6683288979378d9fd0c6
-SHA1: 5f40175f5657339b0cc908529c91ce5cb4e28acc
-SHA256: 3ab9792bbd87acb8c0f51a77c0f8e1ebd3634dc910726a09fd466c91391045f3
+MD5sum: d61e1e38b6716a2249bcfffb27221a09
+SHA1: b63f947db018f29aaf2c6b06aba8c40a95c9ca65
+SHA256: 48fc542b0f47eaf09323be8a6468d3abf1b6af26f5a0be4d2ff3b0dc37c0b9b3
 Section: Themes
 Description: A theme with Big Sur styled icons.
 Author: Jayden Dagsa
