@@ -18,11 +18,9 @@
 	<key>CalendarIconDaySettings</key>
 	<dict>
 		<key>TextColor</key>
-		<string>.white</string>
-		<key>FontName</key>
-		<real>.SFUIText-Bold</real>
+		<string>#ffffff</string>
         	<key>FontSize</key>
-       		<real>9.0</real>
+       		<integer>9</integer>
     	</dict>
 	<key>customclockicon</key>
 	<dict>
