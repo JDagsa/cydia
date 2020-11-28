@@ -1,41 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>JDagsa's Cydia Repo</title>
+  <title>JDagsa's Repo</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <link rel="stylesheet" href="depictions/style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 </head>
 <body>
 
 <div class="container">
-	<h1><img src="CydiaIcon.png"> JDagsa's Repo</h1>
+	<h1><img src="CydiaIcon.png"> JDagsa</h1>
 </div>
 
 <div class="container">
-	<div class="well">
-		<p><span class="text-primary"><b>The JDagsa repo</span></b> is a Cydia repository by JDagsa.</p>
-        <a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://jdagsa.github.io">Add to Cydia</a>
-        <a class="btn btn-sm btn-default" href="installer://add/repo=https://jdagsa.github.io">Add to Installer</a>
-        <a class="btn btn-sm btn-default" href="sileo://source/https://jdagsa.github.io">Add to Sileo</a>
-        <a class="btn btn-sm btn-default" href="zbra://sources/add/https://jdagsa.github.io">Add to Zebra</a>
+	<div class="card">
+		<div class="card-body">
+			<p><span class="text-primary"><b>JDagsa's Repo</span></b> is a tweaks repository by JDagsa.</p>
+            <a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://jdagsa.github.io">Add to Cydia</a>
+            <a class="btn btn-sm btn-default" href="installer://add/repo=https://jdagsa.github.io">Add to Installer</a>
+            <a class="btn btn-sm btn-default" href="sileo://source/https://jdagsa.github.io">Add to Sileo</a>
+            <a class="btn btn-sm btn-default" href="zbra://sources/add/shttps://jdagsa.github.io">Add to Zebra</a>
+		</div>
 	</div>
 </div>
-
+<p></p>
 <div class="container">
   <h3 id="wells" class="page-header">Featured Packages</h3>
 </div>
 
 <div class="container">
-	<div class="panel panel-default">
-	  <div class="panel-heading">BigSurExpanded</div>
-	  <div class="panel-body">
-		iOS meets Big Sur.<br /><br />
-		<a class="btn btn-xs btn-default" href="depictions/?p=com.jaydendagsa.bigsurexpanded_0.1-b1_iphoneos-arm">More info</a>
-	  </div>
+	<div class="card">
+		<div class="card-header">
+			BigSurExpanded
+		</div>
+		<div class="card-body">
+		  <p class="card-text">iOS meets Big Sur.</p>
+		  <a class="btn btn-xs btn-primary" href="depictions/?p=com.jaydendagsa.bigsurexpanded_0.1-b1_iphoneos-arm">More info</a>
+		</div>
 	</div>
 
-	
+</div>
+
 </body>
 </html>
