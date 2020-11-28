@@ -1,0 +1,39 @@
+<package>
+	<id>com.jaydendagsa.bigsurexpanded_0.1-b1_iphoneos-arm</id>
+    <name>BigSurExpanded (BSE)</name>
+    <version>0.1-b1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.anemonetheming.anemone</package>
+        <package>com.spark.snowboard</package>
+	</dependencies>
+	<shortDescription>iOS meets Big Sur.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		BigSurExpanded is a theme with app icons based on the neumorphic style of<br/> 
+		macOS 11.0 Big Sur, and the iconography of iOS.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Home screen of my iPhone (6s Plus, iOS 14.2) with BSE installer</description>
+			<image>HomeScreen.jpeg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial beta release</change>
+		<change>Check here for the changes: https://github.com/JDagsa/JDagsa.github.io/releases/tags/v0.1-b1</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Full Documentation</name>
+			<url>https://www.github.com/JDagsa/JDagsa.github.io/wiki/BigSurExpanded</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>
