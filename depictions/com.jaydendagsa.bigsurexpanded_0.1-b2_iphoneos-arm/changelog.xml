@@ -43,7 +43,9 @@
 		• YouTube<br/>
 		]]>
 		</change>
-        <version>0.1-b1</version>
+    </changes>
+	<changes>
+	<version>0.1-b1</version>
         <change>Initial beta release</change>
         <change><![CDATA[
 		This beta release contains 85 icons, all created by me in Sketch 70.<br/>
@@ -124,5 +126,5 @@
 			• Widgy<br/>
 		]]>
 		</change>
-    </changes>
+	</changes>
 </changelog>
