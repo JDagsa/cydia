@@ -3,8 +3,14 @@
 		<version>0.1-b2</version>
 		<change>Second beta release</change>
 		<change><![CDATA[
-		Starting with this beta release, all stock apps that have their own macOS icons<br/>
-		available in alt03b1's Big Sur theme will use the macOS icon.<br/>
+		Starting with this release, all stock apps that have their own macOS icon<br/>
+		counterpart will use the macOS icon except for the following apps:<br/>
+		• Keynote<br/>
+		• Pages<br/>
+		• Numbers<br/>
+		• GarageBand<br/>
+		• iMovie<br/>
+		• Photo Booth<br/>
 		 <br/>
 		Icons that have been changed:<br/>
 		• App Store<br/>

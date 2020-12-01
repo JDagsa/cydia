@@ -96,7 +96,7 @@
             },
             {
                "class": "DepictionMarkdownView",
-               "markdown": "Go here to see the changes: https://jdagsa.github.io/depictions/changelog.html?p=com.jaydendagsa.bigsurexpanded_0.1-b2_",
+               "markdown": "Go here for the changelog: https://jdagsa.github.io/depictions/changelog.html?p=com.jaydendagsa.bigsurexpanded_0.1-b2_iphoneos-arm",
                "useRawFormat": true
             }
          ]
