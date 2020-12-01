@@ -2,7 +2,7 @@
     <changes>
 		<version>0.1-b2</version>
 		<change>Second beta release</change>
-		<change>Added Big Sur from alt03b1, and Filza or iFile as dependencies, removed Anemone from dependencies</change>
+		<change>Added Big Sur from alt03b1, and Filza or iFile as dependencies</change>
 		<change><![CDATA[
 		Starting with this release, all stock apps that have a macOS icon<br/>
 		counterpart will use the macOS icon from<br/>
@@ -14,7 +14,7 @@
 		• iMovie<br/>
 		• Photo Booth<br/>
 		• Music (remove from Big Sur by alt03b1)<br/>
-		• Files (in alt03b1's Big Sur theme, icon is Finder, remove icon from that themme)<br/>
+		• Files (in alt03b1's Big Sur theme, icon is Finder, remove icon from that theme)<br/>
 		 <br/>
 		Icons that have been removed:<br/>
 		• App Store<br/>
@@ -28,7 +28,6 @@
 		• Mail<br/>
 		• Maps<br/>
 		• Messages<br/>
-		• Music<br/>
 		• News<br/>
 		• Photos<br/>
 		• Safari<br/>
@@ -49,7 +48,7 @@
 		• Spotify for Artists<br/>
 		• Spotify Stations<br/>
 		• Spotify<br/>
-		• Twitter</br>
+		• Twitter<br/>
 		• YouTube Music<br/>
 		• YouTube<br/>
 		]]>
