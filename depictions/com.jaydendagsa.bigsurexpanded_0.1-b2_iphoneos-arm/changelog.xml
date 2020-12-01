@@ -3,7 +3,7 @@
 		<version>0.1-b2</version>
 		<change>Second beta release</change>
 		<change><![CDATA[
-		Starting with this release, all stock apps that have their own macOS icon<br/>
+		Starting with this release, all stock apps that have a macOS icon<br/>
 		counterpart will use the macOS icon except for the following apps:<br/>
 		• Keynote<br/>
 		• Pages<br/>
