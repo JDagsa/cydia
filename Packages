@@ -2,12 +2,12 @@ Package: com.jaydendagsa.BigSurExpanded
 Version: 0.1-b2
 Architecture: iphoneos-arm
 Maintainer: Jayden Dagsa
-Depends: com.anemonetheming.anemone | com.spark.snowboard, com.alt.bigsur, com.tigisoftware.filza64bit | eu.heinelt.ifile, firmware(>=7.0)
+Depends: com.spark.snowboard, com.alt.bigsur, com.tigisoftware.filza64bit | eu.heinelt.ifile, firmware(>=7.0)
 Filename: ./debs/com.jaydendagsa.bigsurexpanded_0.1-b2_iphoneos-arm.deb
-Size: 8516372
-MD5sum: 5f113c1294c56d0d16a0b4ea104ee321
-SHA1: 3fe3e92c640d5c1e1dd70b64f6bf8e3fca397090
-SHA256: 9607f0e326e6610186c8f4c6b00de58ba3b08f7ec244ac7f1939bb8f946d4fb9
+Size: 8516360
+MD5sum: 31bea29304f68120232fc2f5e51a5acb
+SHA1: 250be2bef93801827370a3c255430101e5d7be2c
+SHA256: d023326aeebe185aeeca7104048b551b0b4ac227ecb520aaa382f34086d537b0
 Section: Themes
 Description: A theme with Big Sur styled icons.
 Author: Jayden Dagsa
