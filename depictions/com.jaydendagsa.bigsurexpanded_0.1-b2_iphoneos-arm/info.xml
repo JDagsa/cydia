@@ -8,8 +8,10 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.anemonetheming.anemone OR com.spark.snowboard</package>
+		<package>com.spark.snowboard</package>
 		<package>com.alt.bigsur</package>
+		<package>firmware(>=7.0)</package>
+		<package>com.tigisoftware.filza64bit OR eu.heinelt.ifile</package>
 	</dependencies>
 	<shortDescription>iOS meets Big Sur.</shortDescription>
 	<descriptionlist>
@@ -29,7 +31,7 @@
 	</screenshots>
 	<changelog>
 		<change>Second beta release</change>
-		<change>Added Big Sur from alt03b1, and Filza or iFile as dependencies</change>
+		<change>Added Big Sur from alt03b1, and Filza or iFile as dependencies, removed Anemone from dependencies</change>
 		<change><![CDATA[
 		Starting with this release, all stock apps that have a macOS icon<br/>
 		counterpart will use the macOS icon from<br/>
