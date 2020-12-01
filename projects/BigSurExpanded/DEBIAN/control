@@ -8,4 +8,4 @@ Maintainer: Jayden Dagsa
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Depiction: https://jdagsa.github.io/depictions/?p=com.jaydendagsa.bigsurexpanded_0.1-b2_iphoneos-arm
-SileoDepiction: https://github.com/JDagsa/JDagsa.github.io/blob/master/depictions/BSE_SileoDepiction/com.jaydendagsa.bigsurexpanded_0.1-b2_iphoneos-arm.json
+SileoDepiction: https://github.com/JDagsa/JDagsa.github.io/blob/v0.1-b2/depictions/BSE-SileoDepiction/com.jaydendagsa.bigsurexpanded_0.1-b2_iphoneos-arm.json
