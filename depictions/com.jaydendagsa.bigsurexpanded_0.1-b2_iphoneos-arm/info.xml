@@ -9,14 +9,17 @@
 	</compatibility>
 	<dependencies>
 		<package>com.anemonetheming.anemone OR com.spark.snowboard</package>
+		<package>com.alt.bigsur</package>
 	</dependencies>
 	<shortDescription>iOS meets Big Sur.</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
 		BigSurExpanded is a theme with app icons based on the neumorphic style of<br/> 
-		macOS 11.0 Big Sur, and the iconography of iOS.
+		macOS 11.0 Big Sur, and the iconography of iOS. Use this with Big Sur from alt03b1<br/>
+		(It may be installed as a dependency)
 		]]>
 		</description>
+		<description>Remove the Music and Files icons from "/Library/Themes/Big Sur.theme/IconBundles/" after installing.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -26,9 +29,11 @@
 	</screenshots>
 	<changelog>
 		<change>Second beta release</change>
+		<change>Added Big Sur from alt03b1, and Filza or iFile as dependencies</change>
 		<change><![CDATA[
 		Starting with this release, all stock apps that have a macOS icon<br/>
-		counterpart will use the macOS icon except for the following apps:<br/>
+		counterpart will use the macOS icon from<br/>
+		Big Sur by alt03b1 except for the following apps:<br/>
 		• Keynote<br/>
 		• Pages<br/>
 		• Numbers<br/>
@@ -36,18 +41,18 @@
 		• iMovie<br/>
 		• Photo Booth<br/>
 		 <br/>
-		Icons that have been changed:<br/>
+		Icons that have been removed:<br/>
 		• App Store<br/>
 		• Books<br/>
 		• Calculator<br/>
 		• Calendar<br/>
 		• Contacts<br/>
 		• Find My<br/>
+		• FaceTime<br/>
 		• Home<br/>
 		• Mail<br/>
 		• Maps<br/>
 		• Messages<br/>
-		• Music<br/>
 		• News<br/>
 		• Photos<br/>
 		• Safari<br/>
@@ -56,15 +61,15 @@
 		• TV<br/>
 		• Voice Memos<br/>
 		 <br/>
+		Icons that have been updated:<br/>
+		• Music<br/>
+		 <br/>
 		Icons that have been added:<br/>
-		• Feedback Assistant<br/>
 		• GitHub<br/>
 		• Google Chrome<br/>
 		• Google Maps<br/>
 		• Measure<br/>
-		• Notes<br/>
 		• Reddit<br/>
-		• Reminders<br/>
 		• Spotify for Artists<br/>
 		• Spotify Stations<br/>
 		• Spotify<br/>

@@ -2,9 +2,11 @@
     <changes>
 		<version>0.1-b2</version>
 		<change>Second beta release</change>
+		<change>Added Big Sur from alt03b1, and Filza or iFile as dependencies</change>
 		<change><![CDATA[
 		Starting with this release, all stock apps that have a macOS icon<br/>
-		counterpart will use the macOS icon except for the following apps:<br/>
+		counterpart will use the macOS icon from<br/>
+		Big Sur by alt03b1 except for the following apps:<br/>
 		• Keynote<br/>
 		• Pages<br/>
 		• Numbers<br/>
@@ -12,13 +14,14 @@
 		• iMovie<br/>
 		• Photo Booth<br/>
 		 <br/>
-		Icons that have been changed:<br/>
+		Icons that have been removed:<br/>
 		• App Store<br/>
 		• Books<br/>
 		• Calculator<br/>
 		• Calendar<br/>
 		• Contacts<br/>
 		• Find My<br/>
+		• FaceTime<br/>
 		• Home<br/>
 		• Mail<br/>
 		• Maps<br/>
@@ -32,15 +35,15 @@
 		• TV<br/>
 		• Voice Memos<br/>
 		 <br/>
+		Icons that have been updated:<br/>
+		• Music<br/>
+		 <br/>
 		Icons that have been added:<br/>
-		• Feedback Assistant<br/>
 		• GitHub<br/>
 		• Google Chrome<br/>
 		• Google Maps<br/>
 		• Measure<br/>
-		• Notes<br/>
 		• Reddit<br/>
-		• Reminders<br/>
 		• Spotify for Artists<br/>
 		• Spotify Stations<br/>
 		• Spotify<br/>
