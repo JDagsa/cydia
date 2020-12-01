@@ -1,0 +1,78 @@
+<package>
+	<id>com.jaydendagsa.bigsurexpanded_0.1-b2_iphoneos-arm</id>
+    <name>BigSurExpanded (BSE)</name>
+    <version>0.1-b2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.anemonetheming.anemone OR com.spark.snowboard</package>
+	</dependencies>
+	<shortDescription>iOS meets Big Sur.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		BigSurExpanded is a theme with app icons based on the neumorphic style of<br/> 
+		macOS 11.0 Big Sur, and the iconography of iOS.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Home screen of my iPhone (6s Plus, iOS 14.2) with BSE (v0.1-b1) installed</description>
+			<image>HomeScreen.jpeg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second beta release</change>
+		<change><![CDATA[
+		Starting with this release, all stock apps that have their own macOS icons<br/>
+		available in alt03b1's Big Sur theme will use the macOS icon.<br/>
+		 <br/>
+		Icons that have been changed:<br/>
+		• App Store<br/>
+		• Books<br/>
+		• Calculator<br/>
+		• Calendar<br/>
+		• Contacts<br/>
+		• Find My<br/>
+		• Home<br/>
+		• Mail<br/>
+		• Maps<br/>
+		• Messages<br/>
+		• Music<br/>
+		• News<br/>
+		• Photos<br/>
+		• Safari<br/>
+		• Settings<br/>
+		• Stocks<br/>
+		• TV<br/>
+		• Voice Memos<br/>
+		 <br/>
+		Icons that have been added:<br/>
+		• Feedback Assistant<br/>
+		• GitHub<br/>
+		• Google Chrome<br/>
+		• Google Maps<br/>
+		• Measure<br/>
+		• Notes<br/>
+		• Reddit<br/>
+		• Reminders<br/>
+		• Spotify for Artists<br/>
+		• Spotify Stations<br/>
+		• Spotify<br/>
+		• Twitter</br>
+		• YouTube Music<br/>
+		• YouTube<br/>
+		]]>
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Full Documentation</name>
+			<url>https://www.github.com/JDagsa/JDagsa.github.io/wiki/BigSurExpanded</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>

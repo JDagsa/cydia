@@ -2,10 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-       <key>IB-MaskIcons</key>
+    <key>IB-MaskIcons</key>
     <true/>
-    <key>PackageName</key>
-    <string>BigSurExpanded</string>
+    	<key>PackageName</key>
+    	<string>BigSurExpanded</string>
     <key>CalendarIconDateSettings</key>
 	<dict>
 		<key>TextColor</key>
@@ -24,16 +24,16 @@
     	</dict>
 	<key>customclockicon</key>
 	<dict>
-	<key>blackDot</key>
-	<string>#000000</string>
-	<key>hours</key>
-	<string>#000000</string>
-	<key>minutes</key>
-	<string>#000000</string>
-	<key>redDot</key>
-	<string>#FF0000</string>
-	<key>seconds</key>
-	<string>#FCB603</string>
+		<key>blackDot</key>
+		<string>#000000</string>
+		<key>hours</key>
+		<string>#000000</string>
+		<key>minutes</key>
+		<string>#000000</string>
+		<key>redDot</key>
+		<string>#FF0000</string>
+		<key>seconds</key>
+		<string>#FCB603</string>
 	</dict>
   </dict>
 </plist>

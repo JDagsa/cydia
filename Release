@@ -1,8 +1,8 @@
 Origin: JDagsa
-Label: JDagsa Cydia Repo
+Label: JDagsa
 Suite: stable
-Version: 1.0
+Version: 2.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: The JDagsa Cydia repo for iOS tweaks and themes.
+Description: JDagsa's Public Repo

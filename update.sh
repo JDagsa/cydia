@@ -3,4 +3,4 @@
 sudo ./removeDS.sh
 ./packages.sh
 ./push.sh
-./gethash.sh
+

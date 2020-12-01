@@ -1,0 +1,128 @@
+<changelog>
+    <changes>
+		<version>0.1-b2</version>
+		<change>Second beta release</change>
+		<change><![CDATA[
+		Starting with this beta release, all stock apps that have their own macOS icons<br/>
+		available in alt03b1's Big Sur theme will use the macOS icon.<br/>
+		 <br/>
+		Icons that have been changed:<br/>
+		• App Store<br/>
+		• Books<br/>
+		• Calculator<br/>
+		• Calendar<br/>
+		• Contacts<br/>
+		• Find My<br/>
+		• Home<br/>
+		• Mail<br/>
+		• Maps<br/>
+		• Messages<br/>
+		• Music<br/>
+		• News<br/>
+		• Photos<br/>
+		• Safari<br/>
+		• Settings<br/>
+		• Stocks<br/>
+		• TV<br/>
+		• Voice Memos<br/>
+		 <br/>
+		Icons that have been added:<br/>
+		• Feedback Assistant<br/>
+		• GitHub<br/>
+		• Google Chrome<br/>
+		• Google Maps<br/>
+		• Measure<br/>
+		• Notes<br/>
+		• Reddit<br/>
+		• Reminders<br/>
+		• Spotify for Artists<br/>
+		• Spotify Stations<br/>
+		• Spotify<br/>
+		• Twitter</br>
+		• YouTube Music<br/>
+		• YouTube<br/>
+		]]>
+		</change>
+        <version>0.1-b1</version>
+        <change>Initial beta release</change>
+        <change><![CDATA[
+		This beta release contains 85 icons, all created by me in Sketch 70.<br/>
+		 <br/>
+		Icons, as of this release:
+		 <br/>	
+			• App Store Connect<br/>
+			• App Store<br/>
+			• Apple Store<br/>
+			• Books<br/>
+			• Calculator<br/>
+			• Calendar<br/>
+			• Camera<br/>
+			• checkra1n Loader<br/>
+			• Chimera<br/>
+			• Clips<br/>
+			• Clock<br/>
+			• Color Widgets<br/>
+			• Compass<br/>
+			• Contacts<br/>
+			• Cydia<br/>
+			• Developer<br/>
+			• Facebook Messenger<br/>
+			• Facebook<br/>
+			• FaceTime<br/>
+			• Files<br/>
+			• Find My<br/>
+			• Fitness<br/>
+			• GarageBand<br/>
+			• GCash<br/>
+			• Gmail<br/>
+			• Google Docs<br/>
+			• Google Drive<br/>
+			• Google Duo<br/>
+			• Google Photos<br/>
+			• Google Sheets<br/>
+			• Google Slides<br/>
+			• Google<br/>
+			• Health<br/>
+			• Home<br/>
+			• iBreviary<br/>
+			• iCloud Drive (for earlier versions of iOS)<br/>
+			• iMovie<br/>
+			• Instagram<br/>
+			• Installer<br/>
+			• iTunes Store<br/>
+			• iTunes U<br/>
+			• Keynote<br/>
+			• Mail<br/>
+			• Maps<br/>
+			• McDonalds (including McDelivery apps), 14 of them<br/>
+			• Messages<br/>
+			• Music<br/>
+			• News<br/>
+			• Numbers<br/>
+			• Pages<br/>
+			• PayMaya<br/>
+			• PayPal Business<br/>
+			• PayPal: Mobile Cash<br/>
+			• Phone<br/>
+			• Photo Booth<br/>
+			• Photos<br/>
+			• Playgrounds<br/>
+			• Podcasts<br/>
+			• Safari<br/>
+			• Settings<br/>
+			• Shortcuts<br/>
+			• Sileo<br/>
+			• Stocks<br/>
+			• Tips<br/>
+			• Translate<br/>
+			• TV<br/>
+			• Voice Memos<br/>
+			• Wallet<br/>
+			• Watch<br/>
+			• Weather<br/>
+			• WidgetSmith<br/>
+			• Widgy<br/>
+		]]>
+		</change>
+    </changes>
+</changelog>

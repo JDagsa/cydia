@@ -1,16 +1,17 @@
 Package: com.jaydendagsa.BigSurExpanded
-Version: 0.1-b1
+Version: 0.1-b2
 Architecture: iphoneos-arm
 Maintainer: Jayden Dagsa
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: ./debs/com.jaydendagsa.bigsurexpanded_0.1-b1_iphoneos-arm.deb
-Size: 9512956
-MD5sum: 577b1fa5f6f1b1a20fcb3c10608ef8cd
-SHA1: 36abbfa0353e8ab77367367d249e4b36ae07dbdc
-SHA256: 787ef7e7035a350983e4656621cf2def28bff57c030a047543d3fdc0f296d919
+Filename: ./debs/com.jaydendagsa.bigsurexpanded_0.1-b2_iphoneos-arm.deb
+Size: 13013902
+MD5sum: 4de4fa0c3b4f283e1b9f72a0060d8c61
+SHA1: 7a303a41ef7b05d3fa0ce144cb260e389c5cc278
+SHA256: 97abdef656f849cc144bc1793fe7f304ab2e78d896dfc44a461dba1e758ce7ca
 Section: Themes
 Description: A theme with Big Sur styled icons.
 Author: Jayden Dagsa
-Depiction: https://jdagsa.github.io/depictions/?p=com.jaydendagsa.bigsurexpanded_0.1-b1_iphoneos-arm
+Depiction: https://jdagsa.github.io/depictions/?p=com.jaydendagsa.bigsurexpanded_0.1-b2_iphoneos-arm
 Name: BigSurExpanded
+Sileodepiction: https://github.com/JDagsa/JDagsa.github.io/blob/master/depictions/BSE_SileoDepiction/com.jaydendagsa.bigsurexpanded_0.1-b2_iphoneos-arm.json
 
