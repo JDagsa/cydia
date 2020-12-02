@@ -6,6 +6,6 @@ Description: A theme with Big Sur styled icons.
 Author: Jayden Dagsa <jayden.dagsa@gmail.com>
 Maintainer: Jayden Dagsa <jayden.dagsa@gmail.com>
 Section: Themes
-Depends: com.spark.snowboard | com.anemonetheming.anemone, com.alt.bigsur, com.tigisoftware.filza64bit | eu.heinelt.ifile, firmware(>=7.0)
+Depends: com.spark.snowboard | com.anemonetheming.anemone, com.alt.bigsur, com.tigisoftware.filza64bit, firmware(>=7.0)
 Depiction: https://jdagsa.github.io/depictions/?p=com.jaydendagsa.bigsurexpanded_0.1-b2_iphoneos-arm
 SileoDepiction: https://github.com/JDagsa/JDagsa.github.io/blob/master/depictions/BSE-SileoDepiction/com.jaydendagsa.bigsurexpanded_0.1-b2_iphoneos-arm.json
