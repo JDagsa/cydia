@@ -2,7 +2,7 @@
     <changes>
 		<version>0.1-b2</version>
 		<change>Second beta release</change>
-		<change>Added Big Sur from alt03b1 and Filza as dependencies</change>
+		<change>Added Big Sur from alt03b1, Filza and SnowBoard SettingsIcons Extension as dependencies</change>
 		<change><![CDATA[
 		Starting with this release, all stock apps that have a macOS icon<br/>
 		counterpart will use the macOS icon from<br/>
@@ -59,6 +59,7 @@
 		• YouTube<br/>
 		]]>
 		</change>
+		<change>Added preference icons for Safari, Mail and General. Needs SnowBoard SettingsIcons Extension.</change>
     </changes>
 	<changes>
 	<version>0.1-b1</version>

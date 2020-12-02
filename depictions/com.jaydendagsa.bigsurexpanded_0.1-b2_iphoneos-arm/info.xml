@@ -12,6 +12,7 @@
 		<package>com.alt.bigsur</package>
 		<package>firmware(>=7.0)</package>
 		<package>com.tigisoftware.filza</package>
+		<package>com.spark.snowboard.settingsicons</package>
 	</dependencies>
 	<shortDescription>iOS meets Big Sur.</shortDescription>
 	<descriptionlist>
@@ -31,7 +32,7 @@
 	</screenshots>
 	<changelog>
 		<change>Second beta release</change>
-		<change>Added Big Sur from alt03b1 and Filza as dependencies</change>
+		<change>Added Big Sur from alt03b1, Filza and SnowBoard SettingsIcons Extension as dependencies</change>
 		<change><![CDATA[
 		Starting with this release, all stock apps that have a macOS icon<br/>
 		counterpart will use the macOS icon from<br/>
@@ -88,6 +89,7 @@
 		• YouTube<br/>
 		]]>
 		</change>
+		<change>Added preference icons for Safari, Mail and General. Needs SnowBoard SettingsIcons Extension.</change>
 	</changelog>
 	<links>
 		<link>
