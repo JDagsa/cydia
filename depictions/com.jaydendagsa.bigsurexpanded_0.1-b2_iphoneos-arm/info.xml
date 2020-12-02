@@ -11,7 +11,7 @@
 		<package>com.spark.snowboard OR com.anemonetheming.anemone</package>
 		<package>com.alt.bigsur</package>
 		<package>firmware(>=7.0)</package>
-		<package>com.tigisoftware.filza64bit</package>
+		<package>com.tigisoftware.filza</package>
 	</dependencies>
 	<shortDescription>iOS meets Big Sur.</shortDescription>
 	<descriptionlist>
@@ -81,6 +81,7 @@
 		• Spotify for Artists<br/>
 		• Spotify Stations<br/>
 		• Spotify<br/>
+		• Twitch</br>
 		• Twitter</br>
 		• YouTube Music<br/>
 		• YouTube<br/>
