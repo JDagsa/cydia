@@ -1,5 +1,5 @@
 <package>
-	<id>com.jaydendagsa.bigsurexpanded_0.1-b2_iphoneos-arm</id>
+	<id>com.jaydendagsa.bigsurexpanded_0.2_iphoneos-arm</id>
     <name>BigSurExpanded (BSE)</name>
     <version>0.2</version>
 	<compatibility>
@@ -53,10 +53,7 @@
 	• Filza<br/>
 	 <br/>
 	Icons that were added:<br/>
-	• AltStore<br/>
-	• UTM<br/>
 	• Videos (for earlier versions of iOS)<br/>
-	• Zebra<br/>
 	]]>
 	</change>
 	</changelog>
