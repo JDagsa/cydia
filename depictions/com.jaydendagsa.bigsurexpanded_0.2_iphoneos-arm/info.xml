@@ -33,7 +33,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Initial release of v0.2</change>
+	<change>Initial release of v0.2</change>
 	<change>Introduced settings icons for everything</change>
 	<change>Introduced dock</change>
 	<change>Added SnowBoard UI and Dock Extension as dependencies</change>
@@ -50,9 +50,13 @@
 	 <br/>
 	Icons that were changed:<br/>
 	• Wallet<br/>
+	• Filza<br/>
 	 <br/>
 	Icons that were added:<br/>
+	• AltStore<br/>
+	• UTM<br/>
 	• Videos (for earlier versions of iOS)<br/>
+	• Zebra<br/>
 	]]>
 	</change>
 	</changelog>
