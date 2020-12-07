@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
+<dict>
     <key>IB-MaskIcons</key>
     <true/>
-    	<key>PackageName</key>
-    	<string>BigSurExpanded</string>
-    <key>CalendarIconDateSettings</key>
-	<dict>
-		<key>TextColor</key>
-		<string>#101010</string>
-		<key>FontName</key>
-		<real>.SFUIText-Regular</real>
-		<key>FontSize</key>
-		<real>38.0</real>
-	</dict>
-	<key>CalendarIconDaySettings</key>
-	<dict>
-		<key>TextColor</key>
-		<string>#ffffff</string>
-        	<key>FontSize</key>
-       		<integer>9</integer>
-    	</dict>
+    <key>PackageName</key>
+	<key>DockMode</key>
+	<integer>0</integer>
+    <string>BigSurExpanded</string>
 	<key>customclockicon</key>
 	<dict>
 		<key>blackDot</key>
@@ -35,5 +21,5 @@
 		<key>seconds</key>
 		<string>#FCB603</string>
 	</dict>
-  </dict>
+</dict>
 </plist>

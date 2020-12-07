@@ -1,0 +1,53 @@
+<package>
+	<id>com.jaydendagsa.bigsurexpanded_0.2_iphoneos-arm</id>
+    <name>BigSurExpanded (BSE)</name>
+    <version>0.2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard OR com.anemonetheming.anemone</package>
+		<package>com.alt.bigsur</package>
+		<package>firmware(>=7.0)</package>
+		<package>com.tigisoftware.filza</package>
+		<package>com.spark.snowboard.settingsicons</package>
+		<package>com.spark.snowboard.ui</package>
+		<package>com.spark.snowboard.dock</package>
+	</dependencies>
+	<shortDescription>iOS meets Big Sur.</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		BigSurExpanded is a theme with app icons, settings icons, and a dock based on the neumorphic style of<br/> 
+		macOS 11.0 Big Sur, and the iconography of iOS. Use this with Big Sur from alt03b1<br/>
+		(It may be installed as a dependency)<br/>
+		]]>
+		</description>
+		<description>Remove the Music and Files icons from "/Library/Themes/Big Sur.theme/IconBundles/" after installing.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Home screen of my iPhone (6s Plus, iOS 14.2) with BSE (v0.1-b2) installed</description>
+			<image>HomeScreen.jpeg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+	<change>Minor update for BSE<change>
+	<change>Fixed dock alignment<change>
+	<change><![CDATA[
+	Icons that were added:<br/>
+	• Among Us<br/>
+	• Bundley<br/>
+	• Saily<br/>
+	]]>
+	<change>
+	</changelog>
+	<links>
+		<link>
+			<name>Full Documentation</name>
+			<url>https://www.github.com/JDagsa/JDagsa.github.io/wiki/BigSurExpanded</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>
