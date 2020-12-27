@@ -33,16 +33,16 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-	<change>Minor update for BSE<change>
-	<change>Fixed dock alignment<change>
-	<change><![CDATA[
-	Icons that were added:<br/>
-	• Among Us<br/>
-	• Bundley<br/>
-	• Saily<br/>
-	]]>
-	<change>
-	</changelog>
+		<change>Minor update for BSE<change>
+		<change>Fixed dock alignment<change>
+		<change><![CDATA[
+		Icons that were added:<br/>
+		• Among Us<br/>
+		• Bundley<br/>
+		• Saily<br/>
+		]]>
+		<change>
+        </changelog>
 	<links>
 		<link>
 			<name>Full Documentation</name>
