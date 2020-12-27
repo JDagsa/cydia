@@ -1,7 +1,7 @@
 <package>
-	<id>com.jaydendagsa.bigsurexpanded_0.2.1_iphoneos-arm</id>
-    <name>BigSurExpanded (BSE)</name>
-    <version>0.2.1</version>
+    	<id>com.jaydendagsa.bigsurexpanded_0.2.1_iphoneos-arm</id>
+    	<name>BigSurExpanded (BSE)</name>
+    	<version>0.2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
